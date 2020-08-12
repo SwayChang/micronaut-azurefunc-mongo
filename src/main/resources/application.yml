@@ -1,0 +1,4 @@
+micronaut:
+  application:
+    name: mongo
+mongodb.uri: mongodb://superuser:hgd77287987@computing1.pmi-ai.com:27017/admin

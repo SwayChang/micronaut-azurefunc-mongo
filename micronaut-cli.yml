@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: com.sway
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, azure-function, file-watch, java, junit, logback, maven, mongo-reactive, readme, yaml]
