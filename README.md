@@ -1,0 +1,1 @@
+# micronaut-azurefunc-mongo
